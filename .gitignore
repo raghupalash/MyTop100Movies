@@ -1,2 +1,5 @@
 MyTop100Movies/settings.py
 db.sqlite3
+api/__pycache__/
+api/migrations/
+MyTop100Movies/__pycache__/
