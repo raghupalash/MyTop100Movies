@@ -6,7 +6,7 @@ from django.http import JsonResponse
 from django.shortcuts import render
 
 API_KEY = settings.API_KEY
-SEARCH = "https://api.themoviedb.org/3/search/movies"
+SEARCH = "https://api.themoviedb.org/3/search/movie"
 
 
 def search(request):
