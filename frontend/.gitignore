@@ -36,3 +36,6 @@ next-env.d.ts
 
 #images
 public/images
+
+#environment variables
+vars.env.local
